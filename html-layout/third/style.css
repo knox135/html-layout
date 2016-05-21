@@ -1,0 +1,55 @@
+.top {
+  height: 80px;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  background: #DDDDDD;
+}
+.box {
+  height:60px;
+  width: 60px;
+  position left: 5%;
+  background: #549AE6;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.text {
+  height: 200px;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  top: 280px;
+  background: #FFFFFF;
+}
+.box1 {
+  height: 100px;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  top: 310px;
+  background: #549AE6
+}
+.box2 {
+  height: 100px;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  top: 410px;
+  background:#5AE7C9;
+}
+.box3 {
+  height: 100px;
+width: 100%;
+position: fixed;
+left: 0;
+top: 510px;
+background:#C0EC91
+}
+.box4 {
+  height: 100px;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  top: 610px;
+  background:#F9EA1D
+}

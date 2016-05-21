@@ -1,0 +1,48 @@
+body {
+  background: ##F1F1F1;
+  z-index: -1;
+  margin: 0;
+}
+.top {
+  height: 150px;
+  width: 100%;
+  max-width: 100%;
+  background: #4D4D4D;
+  border:0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.whole-mid {
+  height: 655px;
+  width: 80%;
+  background: ##F1F1F1;
+
+}
+.left {
+  height: 75.5%;
+  width: 10%;
+  background: #DDDDDD;
+  float: left;
+  position:absolute;
+  left: 0;
+}
+.right {
+  height: 75.5%;
+  width: 10%;
+  background: #DDDDDD;
+  float: right;
+  position:absolute;
+  right: 0px;
+
+}
+
+.bottom {
+  height: 75px;
+  width: 100%;
+  background: black;
+  z-index:-1;
+  position:absolute;
+  bottom: 0px;
+
+
+}

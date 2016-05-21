@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+.left {
+  height: 900px;
+  width: 33.3%;
+  background: #549AE6;
+  float: left;
+  position:fixed;
+  left: 0;
+  z-index:-1;
+  margin: 0;
+}
+.mid {
+  height: 900px;
+  width: 33.3%;
+  background: #5AE7C9;
+  position:fixed;
+  left:33.3%;
+
+}
+
+.right {
+  height: 500px;
+  width: 33.3%;
+  background: #C0EC91;
+  position:fixed;
+  left: 66.6%;
+  z-index: 
+
+}
+.bottom {
+  height: 400px;
+  width: 100%;
+  background: red;
+  position:absolute;
+  bottom: 0;
+  left: 100%;
+}
